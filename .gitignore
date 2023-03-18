@@ -129,6 +129,5 @@ dmypy.json
 .pyre/
 
 # Datasets
-/Zhi_work/News_Category_Dataset_v3.json
-sentiment_anal.ipynb
+/web_scrapper/News_Category_Dataset_v3.json
 
