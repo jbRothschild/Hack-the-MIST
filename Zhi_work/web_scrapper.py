@@ -48,7 +48,9 @@ def main(corpo):
     link_txt = get_links(soup)
 
     for link in link_txt:
+
         if link.endswith(".pdf") or ifcontains(link, ignore_list):
+            print(link)
             continue
         else:
             url_corp = link
