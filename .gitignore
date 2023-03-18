@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+/Zhi_work/News_Category_Dataset_v3.json
